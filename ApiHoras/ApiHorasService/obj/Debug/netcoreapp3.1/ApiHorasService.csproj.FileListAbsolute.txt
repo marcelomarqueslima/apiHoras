@@ -4,6 +4,9 @@ C:\Dev\apiHoras\ApiHoras\ApiHorasService\bin\Debug\netcoreapp3.1\ApiHorasService
 C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.csprojAssemblyReference.cache
 C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.AssemblyInfoInputs.cache
 C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.AssemblyInfo.cs
-C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.csproj.CoreCompileInputs.cache
 C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.dll
 C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.pdb
+C:\Dev\apiHoras\ApiHoras\ApiHorasService\bin\Debug\netcoreapp3.1\ApiHorasDomain.dll
+C:\Dev\apiHoras\ApiHoras\ApiHorasService\bin\Debug\netcoreapp3.1\ApiHorasDomain.pdb
+C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.csproj.CopyComplete
+C:\Dev\apiHoras\ApiHoras\ApiHorasService\obj\Debug\netcoreapp3.1\ApiHorasService.csproj.CoreCompileInputs.cache

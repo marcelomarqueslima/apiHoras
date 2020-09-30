@@ -4,14 +4,14 @@
     "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\ApiHorasInfraCrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\ApiHorasInfraCrossCutting.csproj": {
+    "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\ApiHorasDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\ApiHorasInfraCrossCutting.csproj",
-        "projectName": "ApiHorasInfraCrossCutting",
-        "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\ApiHorasInfraCrossCutting.csproj",
+        "projectUniqueName": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\ApiHorasDomain.csproj",
+        "projectName": "ApiHorasDomain",
+        "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\ApiHorasDomain.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\obj\\",
+        "outputPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -40,6 +40,231 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\ApiHorasInfraCrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\ApiHorasInfraCrossCutting.csproj",
+        "projectName": "ApiHorasInfraCrossCutting",
+        "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\ApiHorasInfraCrossCutting.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraCrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraData\\ApiHorasInfraData.csproj": {
+                "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraData\\ApiHorasInfraData.csproj"
+              },
+              "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasService\\ApiHorasService.csproj": {
+                "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasService\\ApiHorasService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraData\\ApiHorasInfraData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraData\\ApiHorasInfraData.csproj",
+        "projectName": "ApiHorasInfraData",
+        "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraData\\ApiHorasInfraData.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasInfraData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\ApiHorasDomain.csproj": {
+                "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\ApiHorasDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasService\\ApiHorasService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasService\\ApiHorasService.csproj",
+        "projectName": "ApiHorasService",
+        "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasService\\ApiHorasService.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\ApiHorasDomain.csproj": {
+                "projectPath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasDomain\\ApiHorasDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5GHw9AfnkWXRmT1k6IjZafwFK8e6m1ZFMrsIVQFXq61gSxYdtVJ0De+/MNi9Aa853bZ+W4fQGer1kKOXUT9luA==",
+  "dgSpecHash": "IaQLTPvYflcg9lqjVGDK+UbONb5kdD17KCCbnYVWitKHA6e6LSDmzdjD6BdRxowgSFOdp1JXPgTF1be63+GDRw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\apiHoras\\ApiHoras\\ApiHorasService\\ApiHorasService.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
   "logs": []
 }

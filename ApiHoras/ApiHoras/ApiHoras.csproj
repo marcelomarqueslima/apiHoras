@@ -8,5 +8,18 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiHorasDomain\ApiHorasDomain.csproj" />
+    <ProjectReference Include="..\ApiHorasInfraCrossCutting\ApiHorasInfraCrossCutting.csproj" />
+    <ProjectReference Include="..\ApiHorasService\ApiHorasService.csproj" />
+  </ItemGroup>
+
 
 </Project>

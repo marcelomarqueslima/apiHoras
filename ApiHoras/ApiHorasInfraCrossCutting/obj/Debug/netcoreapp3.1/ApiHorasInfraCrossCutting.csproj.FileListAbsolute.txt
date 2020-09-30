@@ -4,6 +4,16 @@ C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHo
 C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.csprojAssemblyReference.cache
 C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.AssemblyInfoInputs.cache
 C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.AssemblyInfo.cs
-C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.csproj.CoreCompileInputs.cache
 C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.dll
 C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.pdb
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasInfraData.dll
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasService.dll
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasInfraData.pdb
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasService.pdb
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.csproj.CopyComplete
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.runtimeconfig.json
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.runtimeconfig.dev.json
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.genruntimeconfig.cache
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\obj\Debug\netcoreapp3.1\ApiHorasInfraCrossCutting.csproj.CoreCompileInputs.cache
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasDomain.dll
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraCrossCutting\bin\Debug\netcoreapp3.1\ApiHorasDomain.pdb
