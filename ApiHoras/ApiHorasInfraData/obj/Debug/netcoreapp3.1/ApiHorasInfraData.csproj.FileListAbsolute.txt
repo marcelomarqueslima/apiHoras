@@ -1,0 +1,9 @@
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\bin\Debug\netcoreapp3.1\ApiHorasInfraData.deps.json
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\bin\Debug\netcoreapp3.1\ApiHorasInfraData.dll
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\bin\Debug\netcoreapp3.1\ApiHorasInfraData.pdb
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\obj\Debug\netcoreapp3.1\ApiHorasInfraData.csprojAssemblyReference.cache
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\obj\Debug\netcoreapp3.1\ApiHorasInfraData.AssemblyInfoInputs.cache
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\obj\Debug\netcoreapp3.1\ApiHorasInfraData.AssemblyInfo.cs
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\obj\Debug\netcoreapp3.1\ApiHorasInfraData.csproj.CoreCompileInputs.cache
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\obj\Debug\netcoreapp3.1\ApiHorasInfraData.dll
+C:\Dev\apiHoras\ApiHoras\ApiHorasInfraData\obj\Debug\netcoreapp3.1\ApiHorasInfraData.pdb
